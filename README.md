@@ -1,4 +1,4 @@
-SysInfo - a Neofetch inspiritation in Python
+SysInfo - a Neofetch inspired project
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 Introduction ->
 
