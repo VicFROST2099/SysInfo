@@ -15,7 +15,7 @@ Notes ->
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 How it works ->
 
-The script runs once after running it, reading the config.json and the first .txt file as the custom ascii. 
+The script runs once, reading the config.json and the first .txt file as the custom ascii. 
 The json file is an important component to the script as its being read for the script to know what to 
 output in a terminal or Python IDE. 
 
