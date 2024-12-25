@@ -10,7 +10,7 @@ Notes ->
   - Install required libraries by downloading the requirements.txt and running "pip install -r requirements.txt", then it can be safely deleted
   - Originally made for Windows (Linux was not tested, might update for it to run on both in future) 
   - Gpu information only available for Nvidia cards (possibility of making it work for both AMD and Nvidia in future)
-  - Cpu load may be inaccurate for some Cpu's that have a larger core count
+  - Cpu load may be inaccurate for some Cpu's that have a larger core count (cpu load and cpu load bar might have different values as they are obtained at different times)
   - Python 3 and up required (I used 3.11.9 when making, unsure how it runs on other version due to lack of testing)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 How it works ->
